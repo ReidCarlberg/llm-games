@@ -29,7 +29,7 @@ Employees: Enough to service current customer base
 Risks: Customer churn from competition or dissatisfaction
 Goal: Retain customers and expand strategically.
 Gameplay Mechanics
-Each turn, players and NPCs execute actions within their available resources (time and money).
+Each turn, players and NPCs execute actions within their available resources (time and money).  Turns continue until the player explicitely ends their turn, or until they run out of potential actions they can do given their time and money resources.
 The market has finite demand. All players share the local market (small city, e.g., Boulder, CO).
 Market potential: approximately 10% of total households.
 Market rate: $100 per house cleaned.
